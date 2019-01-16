@@ -3,3 +3,7 @@
 ## Ausgangslage
 
 Katastrophe
+
+## Ziel
+
+Rettung
