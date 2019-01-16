@@ -1,4 +1,4 @@
-# Mein klasse Dokumentationsprojekt
+# Mein phantastisches Dokumentationsprojekt
 
 ## Ausgangslage
 
